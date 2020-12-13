@@ -4,7 +4,7 @@
 
 ###### link
 
-[brandi-clone-coding](https://hyungook.github.io/best-video/)
+[best-video](https://hyungook.github.io/best-video/)
 
 ### 사용 스킬
 
