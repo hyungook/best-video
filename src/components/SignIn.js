@@ -27,12 +27,12 @@ class SignIn extends React.Component{
               defaultValue={props.values.email}
               name="email" 
               type="email"
-              onChange={props.handleChange} /><br />
+              onChange={props.handleChange} placeholder={"email"}/><br />
               <input id="password"
               defaultValue={props.values.password}
               name="password" 
               type="password"
-              onChange={props.handleChange} /><br />
+              onChange={props.handleChange}  placeholder={"영문 + 숫자 8자리 이상"}/><br />
               <button className="submit__btn" type="submit"
               >LOGIN</button><br />
             </form>}
